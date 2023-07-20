@@ -1,2 +1,2 @@
 # Instant-Ai-Diploma
-Instant AI [FR28]
+AI Diploma at Instant Company / [FR28] 
